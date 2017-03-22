@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@mipmap/w1"
+        android:title="delete"
+      app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@mipmap/w4"
+        android:title="setting"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/BackUp"
+        android:icon="@mipmap/w6"
+        android:title="BackUp"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>
